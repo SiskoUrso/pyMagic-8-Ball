@@ -1,0 +1,3 @@
+# pyMagic 8-Ball
+
+So nothing to complex about this one, the other night I needed a 8-Ball for some reason and then afterwards I wondered why I hadn't tried to put one together yet. So I threw one together today and tried to add some things like color and ascii art to make it a little better. If I was going to add more to it at this point it would be trying to do this in the turtle module so it has a better feel for it than just a terminal window. Either way was a fun quick build. 
